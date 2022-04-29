@@ -1,6 +1,6 @@
 # Minimal Webpack 5 Raw WebAssembly Demo
 
-Webpack 5 demo of WebAssembly with the most minimal configuartion.
+Webpack 5 demo of WebAssembly with the most minimal configuration.
 
 ```
 yarn
